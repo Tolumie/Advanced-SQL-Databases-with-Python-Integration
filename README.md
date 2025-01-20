@@ -1,4 +1,4 @@
-# Advanced-SQL-Databases-with-Python-Integration
+# SQL-Databases (with Python-Integration)
 Database projects using simple to Advanced SQL concepts and Python integration via Jupyter Notebooks. The repository includes CRUD operations, ACID properties, foreign/primary key design, complex queries: 
 Common Table Expressions (CTEs),
 Joins,
